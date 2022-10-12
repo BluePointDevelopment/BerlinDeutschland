@@ -1,4 +1,5 @@
 # Berlin, Deutschland
-## Official Open Source Community Bot
+**Official Open Source Bot**
 
 ---
+
